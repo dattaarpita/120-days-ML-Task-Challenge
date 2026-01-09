@@ -1,0 +1,1 @@
+In this code: basically 3 generator created. In 1st generator: for loop used for printing 0 to 4 numbers sequentially. 2nd generator a list created.yield will produce whole list in a single line. In 3rd generator, first and second generator called and then produce values using for loop(that works as next())
