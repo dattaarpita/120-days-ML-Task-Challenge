@@ -1,0 +1,1 @@
+In this code, 2 decorators are created. Here outer decorator will run first. That decorators functions arguments will point inner decorators function.Inner decorator will run secondly,wraps the original func
